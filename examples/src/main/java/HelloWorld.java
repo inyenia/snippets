@@ -22,11 +22,11 @@ public class HelloWorld {
 
         // Prints "Hello, World" to the terminal window.
 
-        //BEGIN-SNIPPET: HelloWorld.example1
+        //BEGIN-SNIPPET: HelloWorld_example1
         System.out.println("Hello, World 1");
         //END-SNIPPET
 
-        //BEGIN-SNIPPET: HelloWorld.example2
+        //BEGIN-SNIPPET: HelloWorld_example2
         System.out.println("Hello, World 2");
         //END-SNIPPET
     }
